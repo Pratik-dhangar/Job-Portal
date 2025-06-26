@@ -13,7 +13,11 @@ A full-stack MERN (MongoDB, Express, React, Node.js) job seeking web application
 - Cloudinary integration for resume uploads
 
 
-## Project UI Overview
+## UI Overview
+
+### Login
+![Login](./public/screenshots/Login.png)
+
 
 ## Project Structure
 
