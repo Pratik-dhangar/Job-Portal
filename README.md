@@ -12,11 +12,36 @@ A full-stack MERN (MongoDB, Express, React, Node.js) job seeking web application
 - RESTful API backend with Express and MongoDB
 - Cloudinary integration for resume uploads
 
+## Usage
+
+- Register as a Job Seeker or Employer.
+- Employers can post and manage jobs.
+- Job Seekers can browse jobs and apply with a resume.
+- Both roles can manage their applications and jobs.
+
+## Tech Stack
+
+- **Frontend:** React, Vite, React Router, Axios, React Hot Toast, React Icons
+- **Backend:** Node.js, Express, MongoDB, Mongoose, Cloudinary, JWT, bcrypt
+- **Other:** Cloudinary for file uploads, dotenv for environment variables
+
 
 ## UI Overview
 
 ### Login
 ![Login](./frontend/public/Screenshots/Login.png)
+
+### Employer 
+![Post Job](./frontend/public/Screenshots/PostJob.png)
+
+### Job Seeker
+![Dashboard](./frontend/public/Screenshots/Dashboard.png)
+
+### Job Seeker
+![Jobs](./frontend/public/Screenshots/Jobs.png)
+
+### Jobs Seeker
+![My Applications](./frontend/public/Screenshots/MyApplications.png)
 
 
 ## Project Structure
@@ -107,19 +132,6 @@ A full-stack MERN (MongoDB, Express, React, Node.js) job seeking web application
    ```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-## Usage
-
-- Register as a Job Seeker or Employer.
-- Employers can post and manage jobs.
-- Job Seekers can browse jobs and apply with a resume.
-- Both roles can manage their applications and jobs.
-
-## Tech Stack
-
-- **Frontend:** React, Vite, React Router, Axios, React Hot Toast, React Icons
-- **Backend:** Node.js, Express, MongoDB, Mongoose, Cloudinary, JWT, bcrypt
-- **Other:** Cloudinary for file uploads, dotenv for environment variables
 
 ---
 
