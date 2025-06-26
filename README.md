@@ -16,7 +16,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) job seeking web application
 ## UI Overview
 
 ### Login
-![Login](./public/screenshots/Login.png)
+![Login](./frontend/public/screenshots/Login.png)
 
 
 ## Project Structure
