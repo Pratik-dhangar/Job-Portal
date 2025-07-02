@@ -17,7 +17,6 @@ A full-stack MERN (MongoDB, Express, React, Node.js) job seeking web application
 - Register as a Job Seeker or Employer.
 - Employers can post and manage jobs.
 - Job Seekers can browse jobs and apply with a resume.
-- Both roles can manage their applications and jobs.
 
 ## Tech Stack
 
